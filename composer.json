@@ -1,11 +1,13 @@
 {
   "name": "xyx/aliyun-php-sdk",
   "description": "aliyun-php-sdk-vod composer pack",
+  "type": "library",
   "keywords": [
     "aliyun",
     "aliyun-php-sdk-vod",
     "aliyunvod",
-    "vod"
+    "vod",
+    "aliyun-php-sdk-core"
   ],
   "license": "MIT",
   "homepage": "https://www.aliyun.com",
@@ -18,7 +20,7 @@
   "require": {
     "php": ">=5.6"
   },
-  "minimum-stability": "dev",
+  "minimum-stability": "stable",
   "repositories": [
   ],
   "autoload": {
