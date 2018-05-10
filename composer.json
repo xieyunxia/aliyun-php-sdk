@@ -25,10 +25,10 @@
   ],
   "autoload": {
     "psr-4": {
-      "vod\\Request\\V20170321\\": "aliyun-php-sdk/aliyun-php-sdk-vod/vod/Request/V20170321/"
+      "vod\\Request\\V20170321\\": "aliyun-php-sdk-vod/vod/Request/V20170321/"
     },
     "files":[
-        "aliyun-php-sdk/aliyun-php-sdk-core/Config.php"
+        "aliyun-php-sdk-core/Config.php"
     ]
 
   }
