@@ -1,0 +1,29 @@
+{
+  "name": "xyx/aliyun-php-sdk",
+  "description": "aliyun-php-sdk-vod composer pack",
+  "keywords": [
+    "aliyun",
+    "aliyun-php-sdk-vod",
+    "aliyunvod",
+    "vod"
+  ],
+  "license": "MIT",
+  "homepage": "https://www.aliyun.com",
+  "authors": [
+    {
+      "name": "xieyunxia",
+      "email": "347312270@qq.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  },
+  "minimum-stability": "dev",
+  "repositories": [
+  ],
+  "autoload": {
+    "psr-4": {
+      "vod\\Request\\V20170321\\": "aliyun-php-sdk/aliyun-php-sdk-vod/vod/Request/V20170321/"
+    }
+  }
+}
