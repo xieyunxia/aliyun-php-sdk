@@ -27,8 +27,9 @@
     "psr-4": {
       "vod\\Request\\V20170321\\": "aliyun-php-sdk/aliyun-php-sdk-vod/vod/Request/V20170321/"
     },
-    "file":{
-      "aliyun-php-sdk/aliyun-php-sdk-core/Config.php"
-    }
+    "files":[
+        "aliyun-php-sdk/aliyun-php-sdk-core/Config.php"
+    ]
+
   }
 }
